@@ -63,7 +63,7 @@ nodes, smart agriculture, industrial telemetry and remote monitoring projects.
 
 - Manufacturer page and documents: [Quectel KG200Z](https://www.quectel.com/product/lora-kg200z/)
 - The Things Stack device registration: [Quectel KG200Z](https://www.thethingsindustries.com/docs/hardware/devices/models/quectel-kg200z/)
-- Documentation, updates and support: [ilimera.com](https://ilimera.com/en/urunler/gelistirme-kartlari/lorawan-devboard) · info@ilimera.com
+- Documentation, updates and support: [ilimera.com](https://ilimera.com/en/urunler/gelistirme-kartlari/lorawan-devboard)
 - Open an **Issue** in this repository for bugs and suggestions.
 
 KG200Z LoRaWAN Devboard is developed by İLİMERA Technology. Quectel and KG200Z are trademarks of Quectel Wireless

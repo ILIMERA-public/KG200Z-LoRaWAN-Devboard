@@ -65,7 +65,7 @@ telemetri ve uzaktan izleme projelerine UART üzerinden eklenir.
 
 - Üretici sayfası ve belgeleri: [Quectel KG200Z](https://www.quectel.com/product/lora-kg200z/)
 - The Things Network / The Things Stack cihaz kaydı: [Quectel KG200Z](https://www.thethingsindustries.com/docs/hardware/devices/models/quectel-kg200z/)
-- Teknik doküman, güncellemeler ve destek: [ilimera.com](https://ilimera.com/urunler/gelistirme-kartlari/lorawan-devboard) · info@ilimera.com
+- Teknik doküman, güncellemeler ve destek: [ilimera.com](https://ilimera.com/urunler/gelistirme-kartlari/lorawan-devboard)
 - Hata bildirimi ve öneriler için bu depoda **Issue** açabilirsiniz.
 
 KG200Z LoRaWAN Devboard, İLİMERA Teknoloji tarafından geliştirilmiştir. Quectel ve KG200Z, Quectel Wireless
