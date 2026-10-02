@@ -1,6 +1,6 @@
 # KG200Z LoRaWAN Devboard
 
-[English](README.en.md) · [Ürün sayfası](https://ilimera.com/urunler/gelistirme-kartlari/lorawan-devboard) · [Teknik doküman (PDF)](docs/KG200Z_LoRaWAN_teknik_dokuman_v1.pdf)
+[English](README.en.md) · [Ürün sayfası](https://ilimera.com/urunler/gelistirme-kartlari/lorawan-devboard) · [Teknik doküman (PDF)](docs/KG200Z_LoRaWAN_teknik_dokuman_v2.pdf)
 
 ![KG200Z LoRaWAN Devboard](docs/images/lorawan-main.webp)
 
